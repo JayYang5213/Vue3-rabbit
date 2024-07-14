@@ -3,7 +3,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div>我是app</div>
+  <el-button type="primary" disabled>Primary</el-button>
 </template>
 
 <style scoped></style>
